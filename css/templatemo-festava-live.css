@@ -12,12 +12,12 @@ https://templatemo.com/tm-583-festava-live
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #F8CB2E;
+  --primary-color:                #445960;
   --secondary-color:              #EE5007;
   --section-bg-color:             #f0f8ff;
-  --custom-btn-bg-color:          #EE5007;
+  --custom-btn-bg-color:          #87715f;
   --custom-btn-bg-hover-color:    #c01f27;
-  --dark-color:                   #000000;
+  --dark-color:                   #1f2020;
   --p-color:                      #717275;
   --border-color:                 #7fffd4;
   --link-hover-color:             #B22727;
@@ -507,7 +507,7 @@ strong {
   ABOUT              
 -----------------------------------------*/
 .about-section {
-  background-image: url('../images/edward-unsplash-blur.jpg');
+  background-image: url('../images/blur01.png');
   background-color: #704010;
   background-repeat: no-repeat;
   background-size: cover;
@@ -545,6 +545,10 @@ strong {
   left: 0;
   margin: 20px;
   padding: 35px;
+}
+
+.cast-section {
+  background-color: var(--dark-color);
 }
 
 
