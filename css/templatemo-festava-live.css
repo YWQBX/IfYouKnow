@@ -286,6 +286,7 @@ strong {
 -----------------------------------------*/
 .custom-icon {
   color: var(--secondary-color);
+  width: 33px;
 }
 
 
