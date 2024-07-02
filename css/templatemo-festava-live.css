@@ -508,7 +508,7 @@ strong {
   ABOUT              
 -----------------------------------------*/
 .about-section {
-  background-image: url('../images/blur01.png');
+  background-image: url('../images/blur01.jpg');
   background-color: #704010;
   background-repeat: no-repeat;
   background-size: cover;
@@ -650,7 +650,7 @@ strong {
   SCHEDULE              
 -----------------------------------------*/
 .schedule-section {
-  background-image: url('../images/blur02.png');
+  background-image: url('../images/blur02.jpg');
   background-color: #242424;
   background-repeat: no-repeat;
   background-position: center;
